@@ -30,7 +30,7 @@ PLATFORMS
 DEPENDENCIES
   md2review
   rake
-  review (~> 5.0)
+  review
 
 BUNDLED WITH
    2.5.11
